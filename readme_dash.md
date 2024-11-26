@@ -4,6 +4,10 @@
 
 Este dashboard apresenta uma análise detalhada das vendas de produtos em um e-commerce, fornecendo uma visão abrangente sobre o desempenho das vendas, comportamento dos clientes e categorias de produtos mais rentáveis. As métricas principais incluem receita total, volume de vendas por categoria, número de pedidos realizados, ticket médio por pedido e a distribuição geográfica dos clientes.
 
+Confira o [projeto publicado](https://app.powerbi.com/groups/me/reports/5b0bd796-cd80-45d7-ab0e-b5ca67b74a98/ed5fa4fccdb9c0ba3990?bookmarkGuid=16787675-b96f-438b-8909-647cd3e049b8&bookmarkUsage=1&ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&portalSessionId=e7310439-bbcd-4b17-8c14-146050ef0c72&fromEntryPoint=export).
+
+![Dashboard](dash.png)
+
 ## Objetivo
 
 O objetivo deste dashboard é fornecer insights sobre as vendas de produtos em um período específico, ajudando a identificar tendências de vendas, categorias mais populares, o comportamento de clientes e a evolução das métricas ao longo do tempo.
