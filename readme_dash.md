@@ -6,7 +6,7 @@ Este dashboard apresenta uma análise detalhada das vendas de produtos em um e-c
 
 Confira o [projeto publicado](https://app.powerbi.com/groups/me/reports/5b0bd796-cd80-45d7-ab0e-b5ca67b74a98/ed5fa4fccdb9c0ba3990?bookmarkGuid=16787675-b96f-438b-8909-647cd3e049b8&bookmarkUsage=1&ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&portalSessionId=e7310439-bbcd-4b17-8c14-146050ef0c72&fromEntryPoint=export).
 
-![Dashboard](dash.png)
+![Dashboard](PBI.png)
 
 ## Objetivo
 
