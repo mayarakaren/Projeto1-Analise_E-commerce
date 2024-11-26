@@ -4,6 +4,8 @@
 
 Este projeto realiza uma análise exploratória de dados de um e-commerce. Ele utiliza técnicas de manipulação de dados e visualização para extrair insights valiosos sobre o desempenho da loja, comportamento dos clientes e tendências de vendas. O notebook contém etapas de pré-processamento, análise estatística e geração de gráficos para compreender melhor os dados.
 
+Esse projeto foi feito utilizando o google drive, todos os arquivos deste projeto podem ser encontrando no [link](https://drive.google.com/drive/folders/1NEaW6bS5Ql9iU6uVmp0EjT6N4ymOiKDD?usp=sharing)
+
 ## Tecnologias Utilizadas
 
 - **Python 3.x**
